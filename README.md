@@ -26,3 +26,6 @@
 
 Тест test_delete_book_from_favorites_name_in_favorites_book_deleted
 проверяет удаление книги из Избранного.
+
+Тест test_get_list_of_favorites_books_add_book_book_returned
+проверяет получение списка книг из Избранного
